@@ -6,7 +6,7 @@ public class MainClass {
 	 */
 	public static void main(String[] args) {
 
-System.out.println("My new Git project");
+System.out.println("Our new Git project");
 
 	}
 
